@@ -15,3 +15,11 @@
 .btn-btn {
     background-color: white;
 }
+
+.parrafo-intro {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: justify;
+    padding: 5rem;
+}
